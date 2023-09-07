@@ -1,0 +1,185 @@
+Airline,Origin,Destination,Flight Number,Price ($),Flight Duration (hrs)
+JetBlue,Houston,San Jose,9925,216,1.5764267457475236
+JetBlue,Dallas,San Antonio,3533,427,4.66146677544266
+United,San Antonio,Chicago,7643,142,3.0201460216004237
+Spirit,New York,San Diego,7332,419,5.799470951776586
+United,San Diego,Dallas,7070,243,4.706832116346237
+Delta,Houston,Los Angeles,9171,409,3.2542680378647524
+JetBlue,San Diego,Houston,8179,93,1.21026052919623
+United,Dallas,New York,7702,114,1.9062793169677197
+Southwest,New York,Los Angeles,9728,54,4.203542565134949
+Delta,Philadelphia,Chicago,4914,286,5.995983182557762
+Spirit,San Jose,Chicago,2618,156,3.3640351560640553
+Spirit,New York,Philadelphia,1117,294,5.630630197599791
+Southwest,New York,San Antonio,8292,141,1.2214805370493989
+United,San Diego,Chicago,9756,468,1.5092417033316443
+Delta,Dallas,Chicago,6571,423,2.6631462610102776
+JetBlue,San Diego,Los Angeles,9808,445,5.235551037574999
+Delta,Philadelphia,Los Angeles,2329,481,1.6567127237609753
+Delta,Philadelphia,Phoenix,7281,66,1.924300058666625
+JetBlue,Los Angeles,Phoenix,2109,321,3.428624121598304
+Southwest,San Diego,Chicago,3642,208,4.163926115036504
+Southwest,Los Angeles,San Antonio,1739,266,4.388799169970709
+Delta,Dallas,San Antonio,1805,444,3.3464626422282504
+JetBlue,Phoenix,New York,8369,234,5.122465250496056
+JetBlue,San Diego,Chicago,8146,67,1.4578093130245076
+JetBlue,Houston,San Diego,8474,327,1.349857056857961
+United,Houston,Los Angeles,4855,299,2.7102187303538967
+Spirit,New York,Chicago,4393,244,2.2269691935625593
+Spirit,San Antonio,San Diego,6994,99,3.9588930818745385
+Southwest,Phoenix,San Diego,2672,103,4.143718990206946
+United,New York,Dallas,3703,349,2.576544498549225
+United,Philadelphia,San Diego,4486,238,5.897682002204432
+Southwest,Phoenix,Houston,6424,231,5.54331268663899
+Delta,Philadelphia,Phoenix,7940,218,5.841478236865083
+JetBlue,San Antonio,New York,2244,426,4.956943154828035
+Spirit,Phoenix,Los Angeles,3047,389,1.0867784354908512
+United,San Jose,New York,8254,85,1.0807709254279965
+Southwest,Chicago,San Jose,4843,70,2.0414646450334066
+United,Dallas,San Jose,5314,461,1.572347703090229
+Delta,New York,San Diego,8080,155,4.0898764571078745
+Spirit,San Diego,Houston,5305,436,1.2036354000895817
+Southwest,Phoenix,Dallas,5870,372,4.216051007625786
+JetBlue,San Antonio,Los Angeles,3300,305,1.77918343288907
+American Airlines,New York,Los Angeles,5332,410,4.814253430867245
+United,Philadelphia,Dallas,8573,265,2.5824530144560716
+American Airlines,Houston,New York,7265,238,4.464174964008733
+Spirit,New York,Phoenix,7353,393,1.3637060369370375
+American Airlines,Chicago,New York,4803,271,2.1707992547462025
+United,San Jose,Dallas,7575,141,4.760741701992027
+Delta,Los Angeles,Philadelphia,5081,357,2.789029761034451
+Frontier,San Diego,San Antonio,2833,402,1.9544882096837948
+Delta,Los Angeles,Phoenix,9708,84,1.1929661744832174
+United,San Antonio,Philadelphia,5622,454,1.2531056665061064
+United,San Jose,San Diego,9050,437,2.661336355761046
+Southwest,Dallas,Phoenix,1277,121,2.3188955443041674
+JetBlue,Houston,Philadelphia,8897,355,3.8581481862331204
+United,Los Angeles,Chicago,3791,303,2.549515675171218
+Spirit,San Jose,San Diego,9134,115,2.528244523355906
+American Airlines,Los Angeles,San Antonio,4778,284,2.3151124213704297
+Frontier,New York,Philadelphia,5803,340,5.086656046332571
+American Airlines,Phoenix,Chicago,7163,485,4.844535029764198
+Delta,Chicago,Philadelphia,3981,475,1.1984966049431662
+Delta,Los Angeles,Phoenix,3079,138,5.406271293865008
+United,Dallas,San Antonio,3730,471,1.2334714725174614
+United,Los Angeles,San Antonio,9935,463,3.1881137131050905
+American Airlines,Dallas,Phoenix,5134,262,5.059569726953052
+American Airlines,San Diego,San Jose,3983,327,4.563446593118275
+American Airlines,San Antonio,New York,2261,332,3.971974693847014
+American Airlines,Dallas,Los Angeles,8742,378,5.1443277078440595
+United,Los Angeles,San Antonio,8392,447,1.5139099963460914
+Delta,San Jose,Chicago,7049,231,4.533209441225091
+Delta,Philadelphia,Los Angeles,2968,178,1.8510386770842027
+Frontier,Chicago,Los Angeles,3466,219,3.0748330046209276
+Frontier,New York,Houston,6332,483,5.735163673433712
+Spirit,Los Angeles,Philadelphia,1891,351,4.199385125049524
+Spirit,Phoenix,Philadelphia,9523,388,3.3468978253327286
+American Airlines,Chicago,Dallas,1987,170,2.915912362623091
+Frontier,Chicago,Philadelphia,4241,435,5.290343564178882
+Spirit,Philadelphia,Phoenix,5309,142,3.0787894508148286
+American Airlines,Phoenix,New York,5047,164,2.520068504499748
+American Airlines,San Antonio,Los Angeles,5624,422,3.0650508599767896
+Spirit,Houston,Phoenix,1240,265,2.955321129602092
+JetBlue,Houston,Los Angeles,8935,373,3.6700311124445193
+Frontier,New York,San Antonio,6006,313,5.346141427433276
+American Airlines,Houston,San Diego,5987,214,1.8652371169244217
+JetBlue,Chicago,New York,9935,338,3.383944575931097
+JetBlue,Los Angeles,Chicago,3965,171,4.020720351269981
+American Airlines,Los Angeles,San Jose,8788,76,3.1704586183546954
+United,San Antonio,New York,1946,329,1.494541731269838
+United,Phoenix,New York,4988,244,2.1220784904120724
+Spirit,Houston,San Diego,5296,204,5.878444550122263
+Southwest,San Jose,Philadelphia,3164,395,2.6006051121608373
+Southwest,Houston,New York,6485,352,5.8946503742120075
+Southwest,San Diego,Los Angeles,4203,231,4.835092098700034
+Spirit,San Antonio,Phoenix,6634,496,3.3890975321358496
+Southwest,New York,Houston,7961,408,1.9026446601180766
+American Airlines,Philadelphia,San Jose,6162,267,5.003838093985505
+Spirit,Chicago,San Antonio,4214,370,3.206003030608164
+Delta,Philadelphia,Phoenix,4238,115,3.632880616332259
+Southwest,Phoenix,San Antonio,2210,52,4.127594840309351
+Southwest,Phoenix,Philadelphia,7115,459,4.051861898754684
+Spirit,Los Angeles,New York,3478,213,2.7290781302307363
+Spirit,Dallas,Chicago,1460,368,2.933263739180973
+Delta,Philadelphia,Chicago,9304,325,5.13435128861911
+Delta,New York,Dallas,9369,57,5.2568861128969635
+United,San Diego,Los Angeles,9735,447,4.264975237505961
+Delta,Phoenix,San Antonio,5246,441,4.980073440208297
+Spirit,New York,San Diego,3454,341,4.5314753129044
+American Airlines,San Diego,Dallas,5416,127,3.3871589334441827
+Spirit,Los Angeles,San Diego,6494,427,1.4291834342786827
+JetBlue,New York,Chicago,4549,123,1.8895118119143115
+JetBlue,Dallas,San Antonio,5187,494,1.3506585441320325
+American Airlines,New York,San Antonio,7681,362,3.827152109391014
+Delta,San Jose,Los Angeles,2785,57,4.206402772205617
+United,Dallas,Houston,3668,465,2.007326554157342
+Delta,San Diego,San Jose,4787,319,1.8403015754293364
+Southwest,San Antonio,Phoenix,6324,278,4.599784241668012
+Frontier,San Antonio,San Jose,7279,386,5.388654284876946
+Delta,Dallas,Philadelphia,9277,173,1.3413592282703315
+Frontier,New York,Houston,9357,161,4.348850808262657
+American Airlines,Phoenix,San Jose,1811,322,3.1929219897330867
+Spirit,Chicago,Phoenix,4420,305,1.3850918676712134
+Southwest,Dallas,Phoenix,6087,279,1.9209574169414403
+Frontier,Philadelphia,Chicago,2927,432,2.2632773090811584
+Southwest,Houston,New York,4843,454,3.136068163140731
+Southwest,San Diego,New York,2460,242,2.6993114951349
+Southwest,San Diego,Philadelphia,1124,174,4.799461998709258
+Spirit,Chicago,Los Angeles,1779,468,5.453697504227081
+Spirit,Chicago,San Diego,2216,368,4.782242661808628
+JetBlue,Philadelphia,Dallas,9763,233,2.217720898725427
+Spirit,San Jose,Phoenix,9103,282,3.549302188210491
+United,Philadelphia,Los Angeles,2338,139,4.930180025052936
+American Airlines,Houston,Dallas,6757,350,2.1600662896174985
+American Airlines,Philadelphia,Chicago,9186,284,2.9817761765509747
+Delta,Dallas,Chicago,2613,365,2.4827666402163286
+JetBlue,New York,San Antonio,9326,384,4.063841558267573
+JetBlue,Philadelphia,Houston,3420,344,4.822761839245777
+Southwest,San Diego,Chicago,5874,497,3.4643609177081593
+JetBlue,Dallas,Philadelphia,9523,407,3.3350070676799457
+United,Dallas,Chicago,9102,89,2.409160612335884
+United,Chicago,Los Angeles,2235,93,1.9064608377329764
+JetBlue,Phoenix,Dallas,5949,200,2.532317334746241
+JetBlue,Chicago,Dallas,2111,202,3.8299402934036384
+Spirit,San Diego,Philadelphia,2155,443,4.1695931387307645
+Southwest,New York,San Diego,7539,79,1.2371799083262793
+JetBlue,Philadelphia,Houston,4736,78,4.688131397892158
+Frontier,Dallas,Houston,1777,371,2.979018163750754
+United,Phoenix,New York,7834,265,4.02513083106913
+American Airlines,San Diego,Phoenix,4880,72,4.93869649370839
+Frontier,Los Angeles,San Antonio,7686,194,4.295701151678982
+Southwest,Philadelphia,Los Angeles,9169,163,3.731585035228427
+Southwest,San Jose,San Diego,2224,99,5.735631605361786
+JetBlue,Philadelphia,San Antonio,5904,114,1.7730232945528948
+Southwest,Dallas,Philadelphia,7231,471,4.115190649607992
+Delta,San Jose,Houston,7528,426,2.9505740299172065
+United,San Diego,New York,7011,294,5.182577108062
+United,San Diego,San Antonio,2504,325,4.859129486136778
+JetBlue,Chicago,Dallas,6230,166,4.244427811871375
+Spirit,Houston,Dallas,5452,125,4.372060683535168
+Frontier,San Antonio,San Jose,1591,145,3.388957803000829
+Spirit,Los Angeles,San Diego,8848,284,1.1724094159349403
+Delta,New York,Chicago,1736,61,5.125474268706632
+Southwest,Phoenix,Los Angeles,7175,159,5.9807256469659285
+JetBlue,San Antonio,Houston,8130,498,1.5537267078875678
+Spirit,San Jose,New York,8224,119,5.939340519630954
+Southwest,San Jose,Dallas,3525,291,1.8134273348747179
+Southwest,San Diego,Dallas,1197,448,4.758012815506151
+United,Phoenix,San Diego,1569,177,2.450809380230048
+JetBlue,San Diego,Philadelphia,1028,246,4.8314784300494065
+American Airlines,Los Angeles,Philadelphia,1192,323,5.0675076297256085
+American Airlines,Chicago,Houston,4002,392,3.5617192064548715
+American Airlines,Phoenix,Los Angeles,5781,141,1.6223946119213082
+American Airlines,Philadelphia,San Antonio,3744,296,3.298985279906142
+Frontier,Phoenix,San Antonio,5654,411,4.255401232253821
+Frontier,Houston,San Antonio,4632,126,4.806277870703778
+Spirit,Chicago,Dallas,6369,123,3.3851322074309476
+Southwest,San Jose,San Antonio,9065,287,5.3484613837661135
+Southwest,San Diego,New York,8124,373,1.016837597548916
+Delta,Chicago,New York,6790,447,2.4362168492297425
+JetBlue,Philadelphia,San Antonio,8956,288,3.986233556686301
+Spirit,Dallas,Philadelphia,2711,388,5.282776142878777
+United,Los Angeles,Houston,6381,100,4.784719539546552
+United,Philadelphia,Los Angeles,7049,249,3.3441514564927255
+JetBlue,San Diego,Houston,9751,300,4.21451375879834
+Spirit,Houston,San Diego,7644,206,4.423789083103406
